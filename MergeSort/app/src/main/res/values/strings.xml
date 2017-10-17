@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MergeSort</string>
+    <string name="title_value">Name</string>
+    <string name="message_type_name">Type name..</string>
+    <string name="action_add">Add student</string>
+    <string name="action_done">Sort by name</string>
+    <string name="action_restart">Clear all</string>
+    <string name="title_steps">Sorted students</string>
+    <string name="title_current_values">Current students</string>
+</resources>
